@@ -1,0 +1,58 @@
+Relatório “Ferramentas de coleta de dados para captação de alunos da academia”
+
+Prezado Rafael,
+
+Espero que este e-mail o encontre bem. Conforme solicitado, realizei uma pesquisa abrangente sobre
+as ferramentas de coleta de dados que podem ajudar nossa cliente, a academia, a aumentar sua captação 
+de alunos.
+
+1. Resumo da análise: após avaliar diversas ferramentas com base em critérios como custo, facilidade 
+de uso, funcionalidades específicas, integração e análise de dados, identifiquei algumas opções que 
+se destacam em termos de eficiência e adequação ao nosso cliente.
+
+2. Ferramentas recomendadas
+
+Google Forms:
+
+Descrição: Ferramenta gratuita de coleta de dados que permite a criação de formulários personalizados.
+Justificativa: Ideal para a academia devido à sua facilidade de uso, custo zero e integração com 
+outras ferramentas do Google. Pode ser utilizado para realizar pesquisas de satisfação, inscrições de 
+novos alunos e coleta de feedback.
+
+SurveyMonkey:
+
+Descrição: Plataforma de pesquisa online com recursos avançados para criação de questionários e 
+análise de dados.
+
+Justificativa: Oferece planos pagos com funcionalidades mais robustas, como análise detalhada de dados 
+e integração com outras plataformas de CRM. É adequado para a academia que deseja uma solução mais 
+profissional e customizável.
+
+Typeform:
+
+Descrição: Ferramenta de criação de formulários e pesquisas com foco em uma experiência de usuário mais 
+interativa e visualmente atraente.
+
+Justificativa: A versão gratuita é limitada, mas a versão paga oferece maior personalização e integração 
+com ferramentas como Zapier, o que pode ser útil para a academia atrair alunos de forma mais envolvente 
+e capturar dados de maneira eficiente.
+
+Considerações finais: As ferramentas recomendadas oferecem um equilíbrio ideal entre custo-benefício e 
+funcionalidades, atendendo às necessidades específicas de uma academia, como entender melhor o perfil dos 
+alunos e potenciais alunos. Google Forms se destaca pela simplicidade e custo zero, SurveyMonkey pela 
+robustez e profissionalismo, e Typeform pela interatividade e experiência do usuário.
+
+No anexo, encontrará o relatório detalhado com a análise comparativa das ferramentas.
+
+Fico à disposição para discutir essas recomendações em mais detalhes e aguardo suas orientações sobre os próximos passos.
+
+Atenciosamente,
+
+Adila Kaiane
+Diretora de administração
+
+
+
+
+
+

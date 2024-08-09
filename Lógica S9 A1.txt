@@ -1,0 +1,25 @@
+def interpretar_letra(letra): 
+
+if len(letra) != 1 or not letra.isalpha(): 
+
+ return
+
+vogais = 'aeiouAEIOU'
+
+if letra in vogais:
+
+tipo_letra = 'vogal'
+
+else:
+
+tipo_letra = 'consoante'
+
+posicao = ord(letra.lower()) - ord('a') + 1
+
+mensagem = f"A letra '{letra}' é uma {tipo_letra} {caso_letra} e está na posição {posicao} do alfabeto."
+
+return mensagem
+
+letra = input("Digite uma letra: ")resultado = interpretar_letra(letra)
+
+print(resultado)

@@ -1,0 +1,15 @@
+1- Motor da geladeira: Alto risco
+2- Freezer da geladeira: Médio risco
+3- Porta da geladeira: Baixo risco
+
+O teste do motor da geladeira é mais perigoso pois, 
+o motor está conectado à fonte de energia elétrica.
+Se houver algum problema com os fios de energia, é
+perigoso gerar um curto-circuito e haver um choque 
+elétrico. Já o teste do freezer e da porta não são
+tão preigosos pois não representam um perigo tão 
+imediato durante testes normais. O freezer é projetado
+para manter alimentos congelados e a porta é 
+principalmente uma estrutura sem envolvimento 
+direto com eletricidade.
+
